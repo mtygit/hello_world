@@ -8,6 +8,8 @@ Tim Ma
 This is a temp repo to show the ACP Proccess
 
 - (A)dd - Staging (git add README.md)
-- (C)ommit - Ready to push to github (git commit -n "your message goes here")
+- git status
+- (C)ommit - Ready to push to github (git commit -m "your message goes here")
+- git status
 - (P)ush - update github (git push origin main)
 
